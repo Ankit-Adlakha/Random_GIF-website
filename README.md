@@ -1,1 +1,1 @@
-# Random_GIF-website
+# random-gifs
